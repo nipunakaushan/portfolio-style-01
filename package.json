@@ -1,11 +1,13 @@
 {
   "name": "portfolio-style-01",
+  "homepage": "https://kaushanjayasundara.lankanvibes.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "autoprefixer": "^10.4.14",
     "emailjs-com": "^3.2.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -29,7 +31,7 @@
   "browserslist": {
     "production": [
       ">0.2%",
-      "not dead",
+      "not ie <= 11",
       "not op_mini all"
     ],
     "development": [
