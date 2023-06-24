@@ -84,16 +84,17 @@
         margin: 2rem auto 4rem;
     }
 
-    .about__content {
+    .about__content p {
         margin: 1rem 0 1.5rem;
 
     }
 }
 
-/*===============================SMALL QUARIES(MEDIUM DEVICES)=======================================*/
+/*===============================SMALL QUARIES(SMALL DEVICES)=======================================*/
 
 @media screen and (max-width:600px) {
     .about__me {
+        width: 65%;
         margin: 0 auto 3rem;
     }
 

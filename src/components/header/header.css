@@ -78,7 +78,7 @@ header {
 
 }
 
-/*===============================SMALL QUARIES(MEDIUM DEVICES)=======================================*/
+/*===============================SMALL QUARIES(SMALL DEVICES)=======================================*/
 
 @media screen and (max-width:600px) {
     header {
