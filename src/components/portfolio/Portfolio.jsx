@@ -4,7 +4,7 @@ import IMG1 from '../../assets/portfolio1.jpg'
 import IMG2 from '../../assets/portfolio2.jpg'
 import IMG3 from '../../assets/portfolio3.jpg'
 import IMG4 from '../../assets/portfolio4.jpg'
-import IMG5 from '../../assets/portfolio5.png'
+import IMG5 from '../../assets/portfolio5.jpg'
 import IMG6 from '../../assets/portfolio6.jpg'
 
 // do not use images in production
@@ -12,16 +12,16 @@ const data = [
   {
     id:1,
     image:IMG1,
-    title:'Online Ticketing Platform',
+    title:'responsive E-commerce sites for Beauty cosmatic shops and saloons                        . ',
     github: 'https://github.com' ,
-    demo: 'https://onlineticket.lk/'
+    demo: 'https://beautyvibes.lankanvibes.com/'
 
   },
 
   {
     id:2,
     image:IMG2,
-    title:'Crypto Currency Dashboard & Financial Visualization',
+    title:'Responsive E-commmerce and Service websites for optical shops and eye-care service centers.',
     github: 'https://github.com' ,
     demo: 'https://onlineticket.lk/'
 
@@ -30,25 +30,25 @@ const data = [
   {
     id:3,
     image:IMG3,
-    title:'Figma dashboard UI Kit for Data design web apps ',
+    title:'Responive Shirt Customization and Designing platform                                        .',
     github: 'https://github.com' ,
-    demo: 'https://onlineticket.lk/'
+    demo: 'https://shirtcustomizer.lankanvibes.com/'
 
   },
 
   {
     id:4,
     image:IMG4,
-    title:'Maintaining tasks and tracking progress',
+    title:'Responsive E-Commerce Website for Clothing Store ',
     github: 'https://github.com' ,
-    demo: 'https://onlineticket.lk/'
+    demo: 'https://styleplusclothing.lankanvibes.com/'
 
   },
 
   {
     id:5,
     image:IMG5,
-    title:'Charts template & infographics in Figma',
+    title:'Online Ticketing Platform with QR Generation system',
     github: 'https://github.com' ,
     demo: 'https://onlineticket.lk/'
 
