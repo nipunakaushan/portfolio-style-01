@@ -13,7 +13,7 @@ const data = [
     id:1,
     image:IMG1,
     title:'responsive E-commerce sites for Beauty cosmatic shops and saloons                        . ',
-    github: 'https://github.com' ,
+    github: 'https://github.com/nipunakaushan' ,
     demo: 'https://beautyvibes.lankanvibes.com/'
 
   },
@@ -22,16 +22,16 @@ const data = [
     id:2,
     image:IMG2,
     title:'Responsive E-commmerce and Service websites for optical shops and eye-care service centers.',
-    github: 'https://github.com' ,
-    demo: 'https://onlineticket.lk/'
+    github: 'https://github.com/nipunakaushan' ,
+    demo: 'https://opticeyevibes.lankanvibes.com/'
 
   },
 
   {
     id:3,
     image:IMG3,
-    title:'Responive Shirt Customization and Designing platform                                        .',
-    github: 'https://github.com' ,
+    title:'Responive T-Shirt Customization and Designing platform                                        .',
+    github: 'https://github.com/nipunakaushan' ,
     demo: 'https://shirtcustomizer.lankanvibes.com/'
 
   },
@@ -40,7 +40,7 @@ const data = [
     id:4,
     image:IMG4,
     title:'Responsive E-Commerce Website for Clothing Store ',
-    github: 'https://github.com' ,
+    github: 'https://github.com/nipunakaushan' ,
     demo: 'https://styleplusclothing.lankanvibes.com/'
 
   },
@@ -49,7 +49,7 @@ const data = [
     id:5,
     image:IMG5,
     title:'Online Ticketing Platform with QR Generation system',
-    github: 'https://github.com' ,
+    github: 'https://github.com/nipunakaushan' ,
     demo: 'https://onlineticket.lk/'
 
   },
@@ -57,9 +57,9 @@ const data = [
   {
     id:6,
     image:IMG6,
-    title:'Android Mobile Application',
-    github: 'https://github.com' ,
-    demo: 'https://onlineticket.lk/'
+    title:'Responsive E-Commerce Website for Pharmacy',
+    github: 'https://github.com/nipunakaushan' ,
+    demo: 'https://pharmavibes.lankanvibes.com/'
 
   },
 ]
