@@ -57,9 +57,9 @@ const data = [
   {
     id:6,
     image:IMG6,
-    title:'Data Visualization web application',
+    title:'Responsive E-Commerce Website for Pharmacy',
     github: 'https://github.com/nipunakaushan' ,
-    demo: 'https://onlineticket.lk/'
+    demo: 'https://pharmavibes.lankanvibes.com/'
 
   },
 ]
